@@ -1,0 +1,24 @@
+{
+  "addProducts": [
+    {
+      "productId": 1,
+      "productUrl": "https://productimages.hepsiburada.net/s/37/375/10556910272562.jpg",
+      "productName": "Macbook Air Intel Core i3 280GB",
+      "productCount": "10.000 tl" ,
+      "rating": "5",
+      "categoryId": 1,
+      "quantity": 0,
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "productUrl": "https://productimages.hepsiburada.net/s/41/375/10698886021170.jpg",
+      "productName": "Samsung Galaxy Tab S7 Plus SM-T970 256 GB Tablet",
+      "productCount": "6.000 tl",
+      "rating": "4",
+      "categoryId": 1,
+      "quantity": 0,
+      "id": 2
+    }
+  ]
+}

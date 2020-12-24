@@ -1,0 +1,20 @@
+{"category": [
+    {
+      "id": 1,
+      "categoryName": "Elektronik"
+    },
+    {
+      "id":2,
+      "categoryName": "Moda"
+    },
+    {
+     "id": 3,
+      "categoryName": "Kırtasiye"
+    },
+
+    {
+      "id": 4,
+      "categoryName": "Oyuncak"
+    }
+  ]
+}

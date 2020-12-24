@@ -1,0 +1,154 @@
+{
+
+    "product": [
+        {
+          "productId": 1,
+          "productUrl":"https://productimages.hepsiburada.net/s/37/375/10556910272562.jpg",
+          "productName": "Macbook Air Intel Core i3 280GB",
+         "productCount": "10.000 TL",
+          "rating": "5",
+          "categoryId": 1,
+          "quantity":0
+        },
+        {
+          "productId": 2,
+         "productUrl":"https://productimages.hepsiburada.net/s/41/375/10698886021170.jpg",
+          "productName": "Samsung Galaxy Tab S7 Plus SM-T970 256 GB Tablet",
+          "productCount": "6.000 TL",
+          "rating": "4",
+          "categoryId": 1,
+          "quantity":0
+        },
+        {
+          "productId": 3,
+          "productUrl":"https://cdn03.ciceksepeti.com/cicek/kc9110472-1/L/oppo-realme-5i-64-gb-mavi--realme-turkiye-garantili--kc9110472-1-f0b2224862d04ff7b516cb27bc5d12d9.jpg",
+          "productName": "Oppo Realme 5i 64 GB (Realme Türkiye Garantili)",
+          "productCount": "2.5000 TL",
+          "rating": "3.5",
+          "categoryId": 1,
+          "quantity":0
+        },
+        {
+          "productId": 4,
+         "productUrl":"https://productimages.hepsiburada.net/s/42/500/10724337909810.jpg",
+          "productName":"LG 65UN71006LB 65 165 Ekran Uydu Alıcılı 4K Ultra HD Smart LED TV",
+          "productCount": "7.500 TL",
+          "rating": "4.8",
+          "categoryId": 1,
+          "quantity":0
+        },
+        {
+          "productId": 5,
+          "productUrl":"https://productimages.hepsiburada.net/l/44/600-800/10803099041842.jpg",
+          "productName": "Twist Kadın Elbise",
+          "productCount": "150 TL",
+          "rating": "4.8",
+          "categoryId": 2,
+          "quantity":0
+        },
+        {
+          "productId": 6,
+          "productUrl":"https://cdn.sorsware.com/ramsey/ContentImages/Product/2016-2/10081764/slim-fit-uzun-kollu-gomlek_beyaz-beyaz_1_buyuk.jpg",
+          "productName": "Yıldız Gömlek",
+          "productCount": "100 TL",
+          "rating": "4.5",
+          "categoryId": 2,
+          "quantity":0
+        },
+        {
+          "productId": 7,
+          "productUrl":"https://www.hammerjack.com/Uploads/UrunResimleri/buyuk/hammer-jack-siyah-crayz-erkek-bot--hamme-64f7.jpg",
+          "productName": "Hammer Jack",
+          "productCount": "190 TL",
+          "rating": "4.0",
+          "categoryId": 2,
+          "quantity":0
+        },
+        {
+          "productId": 8,
+          "productUrl":"https://cdn.dsmcdn.com/mnresize/415/622/ty6/product/media/images/20200716/11/4596645/77043792/0/0_org_zoom.jpg",
+          "productName": "Blue Saat",
+          "productCount": "800 TL",
+          "rating": "4.2",
+          "categoryId": 2,
+          "quantity":0
+        },
+        {
+          "productId": 9,
+          "productUrl":"https://www.nezih.com.tr/faber-castell-grip-finepen-keceli-kalem-04-mm-10-renk-151610-36685-17-B.jpg",
+          "productName": "10'lu Faber Castel Boya Kalemi",
+          "productCount": "80 TL",
+          "rating": "3.0",
+          "categoryId": 3,
+          "quantity":0
+        },
+        {
+          "productId": 10,
+          "productUrl":"https://productimages.hepsiburada.net/s/29/500/10246112477234.jpg",
+          "productName": "120 Telli Defter",
+          "productCount": "25 TL",
+          "rating": "4.7",
+          "categoryId": 3,
+          "quantity":0
+        },
+        {
+          "productId": 11,
+          "productUrl":"https://productimages.hepsiburada.net/s/41/375/10718252302386.jpg",
+          "productName": "Kalemlik",
+          "productCount": "15 TL",
+          "rating": "3.2",
+          "categoryId": 3,
+          "quantity":0
+        },
+        {
+          "productId": 12,
+          "productUrl":"https://productimages.hepsiburada.net/s/43/375/10771656835122.jpg",
+          "productName": "5'li Silgi",
+          "productCount": "20 TL",
+          "rating": "4.7",
+          "categoryId": 3,
+          "quantity":0
+        },
+        {
+          "productId": 13,
+          "productUrl":"https://productimages.hepsiburada.net/s/35/375/10485451751474.jpg",
+          "productName": "Uzaktan Kumandalı Araba",
+          "productCount": "120 TL",
+          "rating": "4.7",
+          "categoryId": 4,
+          "quantity":0
+        },
+        {
+          "productId": 14,
+          "productUrl":"https://productimages.hepsiburada.net/s/22/1500/9945067913266.jpg",
+          "productName": "Robot",
+          "productCount": "100 TL",
+          "rating": "4.7",
+          "categoryId": 4,
+          "quantity":0
+        },
+  
+        {
+          "productId": 15,
+          "productUrl":"https://www.trendyol.com/assets/product/media/images/20200129/17/2618412/62788575/1/1_org_zoom.jpg",
+          "productName": "Barbie Bebek",
+          "productCount": "70 TL",
+          "rating": "4.0",
+          "categoryId": 4,
+          "quantity":0
+        },
+  
+        {
+          "productId": 16,
+          "productUrl":"https://productimages.hepsiburada.net/s/47/500/10936264196146.jpg",
+          "productName": "LEGO",
+          "productCount": "1000 TL",
+          "rating": "4.7",
+          "categoryId": 4,
+          "quantity":0
+        }
+      ]
+
+
+    
+}
