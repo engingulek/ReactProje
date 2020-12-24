@@ -1,9 +1,9 @@
 .Col
 {
     display: flex;
-    flex-wrap: wrap;
     height: 100px;
     width: 150px;
+    flex-wrap: wrap;
 
     
   
