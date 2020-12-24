@@ -8,13 +8,13 @@ import { Route, Switch, BrowserRouter } from "react-router-dom";
 import CartList from "./CartList";
 
 export default class App extends React.Component {
-  state = {
+  state =    {
     product: [],
     categoryTitle: "",
     categoryId: "",
     newCartList:[],
     count: "",
-  };
+            };
 
   componentDidMount() {
     this.getProducts();
